@@ -1,0 +1,3 @@
+First install screenlets, then either copy this whole folder to ~/.screenlets or compress to .tar.gz and install from screenlets manager.
+
+Sample eventfile is included and the alarm file must be a wav file.
