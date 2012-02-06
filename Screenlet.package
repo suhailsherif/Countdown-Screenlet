@@ -1,0 +1,7 @@
+[Screenlet Package]
+Name=Countdown2Screenlet
+Author=Patrik Kullman, Suhail Sherif
+Desc=Display time left to specific dates and times
+Version=1.0
+ApiVersion=0.0.10
+Created=2011/04/17
